@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1764421189513,
+      "tag": "0000_public_james_howlett",
+      "breakpoints": true
+    }
+  ]
+}

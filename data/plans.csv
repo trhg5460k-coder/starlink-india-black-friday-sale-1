@@ -1,0 +1,3 @@
+id,name,service_type,speed,price,original_price,discount_percentage,device_cost,original_device_cost,description,features,is_active
+plan-1,25 Mbps Residential,residential,25 Mbps,2250,3000,25,15000,30000,"Reliable high-speed internet for your home","Unlimited data|25 Mbps download speeds|Priority customer support|Weather-resistant equipment|Easy setup in minutes",true
+plan-2,Roam Portable,roam,100+ Mbps,37.50,50,25,20000,40000,"Portable internet on the go","100+ Mbps download speeds|Built-in WiFi router|Compact and portable|Works across India|Low power consumption",true
